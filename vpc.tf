@@ -1,9 +1,10 @@
 variable "project_id" {
-  description = "project id"
+  description = "algebraic-pier-306710"
 }
 
 variable "region" {
   description = "region"
+  default = "europe-west1-a"
 }
 
 provider "google" {
