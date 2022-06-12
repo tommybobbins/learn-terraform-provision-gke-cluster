@@ -1,5 +1,5 @@
 variable "project_id" {
-  description = "algebraic-pier-306710"
+  description = "MY_PROJECT"
 }
 
 variable "region" {

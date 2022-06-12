@@ -1,2 +1,2 @@
-project_id = "REPLACE_ME"
+project_id = "MY_PROJECT"
 region     = "europe-west1"
